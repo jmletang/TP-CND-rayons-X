@@ -7,3 +7,5 @@ dependencies:
   - xraylib
   - pip:
     - matplotlib
+    - xpecgen
+    - tabletext      
